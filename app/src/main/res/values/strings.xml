@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">quizapp</string>
+
+    <string name="Intro">Cat Quiz App</string>
+
+    <string name="Question1">What is the largest cat in the world?</string>
+    <string name="Question2">True or False. Domesticated cats are closely related to big cats in the wild.</string>
+    <string name="Question3">True of False. Cats have the cognitive ability to sense a humans feelings and mood.</string>
+    <string name="Question4">What is the oldest domestic cat breed ever on record?</string>
+
+    <string name="question1answer1">Liger</string>
+    <string name="question1answer2">Bengal Tiger</string>
+    <string name="question1answer3">Lion</string>
+    <string name="question1answer4">Snow Leapord</string>
+
+    <string name="question2answer1">True</string>
+    <string name="question2answer2">False</string>
+
+    <string name="question3answer1">True</string>
+    <string name="question3answer2">False</string>
+
+    <string name="question4answer1">Siamese</string>
+    <string name="question4answer2">Persian</string>
+    <string name="question4answer3">Egyptian Mau</string>
+    <string name="question4answer4">Angora</string>
+
+    <string name="Submit">Submit!</string>
+    <string name="Restart">Start Over!</string>
+
+
+
+
+</resources>
